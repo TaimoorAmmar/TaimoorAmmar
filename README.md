@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @TaimoorAmmar
-- 👀 I’m interested in web & mobile app development
-- 🌱 I have learned HTML, CSS, JS, REACT and on my way to being Full Stack Developer
-- 📫 How to reach me? taimoor75@hotmail.com 
-- ⚡ Fun fact I am obsessed with Digital Art
+- 👀 I’m interested in <strong>web & mobile app development.</strong>
+- 🌱 I have learned <strong>HTML, CSS, JS, REACT</strong> and on my way to being <strong>Full Stack Developer</strong>
+- 📫 How to reach me? <strong>taimoor75@hotmail.com. </strong>
+- ⚡ Fun fact: <strong>I am obsessed with Digital Art</strong>
 
 <!---
 TaimoorAmmar/TaimoorAmmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
